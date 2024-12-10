@@ -69,8 +69,8 @@ app.post('/generate-embed', (req, res) => {
     <iframe src="${url}" title="${title}"></iframe>
 
     <div class="logo">
-        <img src="https://www.cjoint.com/data/NHsxRKm284Q_embed-2.png" alt="Powered by CC Embed">
-        <span>Powered by CC Embed</span>
+        <img src="https://i.imgur.com/RQzJluf.jpeg" alt="Powered by CC Embed">
+        <span>Powered by CC</span>
     </div>
 </body>
 </html>`;
